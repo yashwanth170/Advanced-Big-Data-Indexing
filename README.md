@@ -1,4 +1,4 @@
-# Northeastern University REST API Prototype Model (INFO 7255)
+# Advanced Big Data Indexing Prototype Model (INFO 7255)
 
 ## Project Overview
 This repository contains development work for a REST API prototype model, completed as part of the INFO 7255 course at Northeastern University. The project focuses on building a REST API to parse a JSON schema model and includes three prototype demos.
